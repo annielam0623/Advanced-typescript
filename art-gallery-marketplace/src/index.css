@@ -1,0 +1,10 @@
+body {
+    min-height: 100vh;
+    color: white !important;
+}
+
+nav {
+    position: sticky !important;
+    top: 0;
+    z-index: 10;
+}
